@@ -19,7 +19,7 @@ namespace ConsoleUI
         public abstract void DriveAbstract();
         public virtual void DriveVirtual()
         {
-            Console.WriteLine("Yoiu are driving...");
+            Console.WriteLine("You are driving...");
         }
     }
 }
